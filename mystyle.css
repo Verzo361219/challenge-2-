@@ -129,7 +129,7 @@ aside img {
     padding: 50px;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: 2rem;
 }
 
@@ -144,7 +144,7 @@ aside img {
     margin-left: auto;
     margin-right: auto;
     justify-content: center;
-    width: 400px;
+    width: 700px;
     border-width: 20px;
     border-color: var(--cyan);
     border-radius: 50px;
